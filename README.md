@@ -10,7 +10,7 @@ https://catalog.data.gov/dataset/2013-2019-math-test-results-school-swd-ethnicit
 I created a line graph to analyze Statewide_Greenhouse_Gas_Emissions__Beginning_1990. 
 Sub-Category of industries that being analyzed by the dataset is my target. 
 I counted the number of industrial, land use, livestock and electric power under sub-category. 
-
+![plot1](https://github.com/Raymond6688/Raymondproject2/blob/main/plot1.png?raw=true)
 https://catalog.data.gov/dataset/statewide-greenhouse-gas-emissions-beginning-1990
 
 
