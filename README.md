@@ -3,7 +3,7 @@
 I created a grouped bar chart to analyze the number of students by level and their score. In the original dataset, the students are categorized to level 1, level 2, level 3 and level 4. They have different math  test scores. I counted the number of level 2 and level 3 students who got score of 4,5,6,7 in the dataset. 
 
 ![plot1](https://github.com/Raymond6688/Raymondproject2/blob/main/plot1.png?raw=true)
-https://catalog.data.gov/dataset/statewide-greenhouse-gas-emissions-beginning-1990
+
 ## link to plot 1 web
 https://catalog.data.gov/dataset/2013-2019-math-test-results-school-swd-ethnicity-gender-economic-status-ell-total-of-all
 
