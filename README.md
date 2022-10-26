@@ -15,7 +15,6 @@ https://catalog.data.gov/dataset/statewide-greenhouse-gas-emissions-beginning-19
 
 
 
-
-
+## link to the class web page
 
 https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02
