@@ -11,7 +11,7 @@ https://catalog.data.gov/dataset/statewide-greenhouse-gas-emissions-beginning-19
 ## plot 2
 I created a line graph to analyze Statewide_Greenhouse_Gas_Emissions__Beginning_1990. 
 Sub-Category of industries that being analyzed by the dataset is my target. 
-I counted the number of industrial, land use, livestock and electric power under sub-category. 
+I counted the number of 'industrial', 'land use', 'livestock' and 'electric power' under sub-category of the dataset.
 ![plot2](https://github.com/Raymond6688/Raymondproject2/blob/main/plot2.png?raw=true)
 
 ## link to the class web page
