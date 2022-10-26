@@ -1,3 +1,4 @@
+# My explanations of two plots #
 I created a grouped bar chart to analyze the number of students by level and their score. In the original dataset, the students are categorized to level 1, level 2, level 3 and level 4. They have different math  test scores. I counted the number of level 2 and level 3 students who got score of 4,5,6,7 in the dataset. 
 
 https://catalog.data.gov/dataset/2013-2019-math-test-results-school-swd-ethnicity-gender-economic-status-ell-total-of-all
